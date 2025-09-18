@@ -1,4 +1,14 @@
-## Hi there 👋
+## Kriya Shah
+
+Undergraduate student at Washington and Lee University
+
+Class of 2026
+
+
+
+Major: Mathematics
+
+Minors: Computer Science and Russian
 
 <!--
 **kns1903/kns1903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
